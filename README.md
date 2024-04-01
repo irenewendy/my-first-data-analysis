@@ -1,2 +1,13 @@
 # my-first-data-analysis
-data analysis
+
+
+# project objectives: problem solving
+
+
+# Data Sourcing
+
+
+# Data Transformations
+
+# Findings
+
